@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="center">✦ Studying Computer Science ✦<br>✦ Currently learning c++ and java ✦</h4>
+<h4 align="center">✦ Computer Science Student ✦<br>✦ Currently learning c++ and java ✦</h4>
 
 ###
 
